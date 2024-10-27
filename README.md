@@ -1,11 +1,13 @@
 # [QPoland Global Quantum Hackathon 2024:](https://www.qaif.org/contests/qpoland-global-quantum-hackathon)
 
 ## Introduction
-Quantum Games Track:  Quantum Dots and Boxes
+Quantum Games Track: Quantum Dots and Boxes
 
 Dots and Boxes is a classic pencil-and-paper game that involves two players taking turns to draw a single horizontal or vertical line between two unjoined adjacent dots. The goal is to complete the boxes formed by the lines. 
 
 Quantum Dots and Boxes is a battle between humans and programs, where the program uses the Grover search algorithm in quantum computing to find the best connection for each step. The main rule is that whoever forms the most boxes (scores) wins, and for each box formed, one more step is allowed.
+
+YouTube link: 
 
 Here is a screenshot of our game: where the red side represents humans and the green side represents programs:
 
@@ -16,7 +18,7 @@ Here is a screenshot of our game: where the red side represents humans and the g
 ## Team
 
 Team name: Love Like Fire
-Teanm menbers: Jian-Fei Yang, [Gao-Ming Fan](https://github.com/Leonardo-F)
+Teanm menbers: [Jian-Fei Yang](https://github.com/YangD5014), [Gao-Ming Fan](https://github.com/Leonardo-F)
 
 ## Installation
 
