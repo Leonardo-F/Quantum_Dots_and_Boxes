@@ -18,7 +18,8 @@ Here is a screenshot of our game: where the red side represents humans and the g
 ## Team
 
 Team name: Love Like Fire
-Teanm menbers: [Jian-Fei Yang](https://github.com/YangD5014), [Gao-Ming Fan](https://github.com/Leonardo-F)
+
+Team menbers: [Jian-Fei Yang](https://github.com/YangD5014), [Gao-Ming Fan](https://github.com/Leonardo-F)
 
 ## Installation
 
