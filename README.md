@@ -32,6 +32,8 @@ pip install -r /path/to/requirements.txt
 
 ## Document Description
 
+`Quantum_Dots_and_Boxes_PPT.pptx`: The presentation of our project.
+
 `DBGrover.py`: Run this file to start the game.
 
 `DotsandBoxes.py`: Implementing Dots and Boxes games.
