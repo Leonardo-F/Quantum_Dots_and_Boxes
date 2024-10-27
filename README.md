@@ -7,13 +7,15 @@ Dots and Boxes is a classic pencil-and-paper game that involves two players taki
 
 Quantum Dots and Boxes is a battle between humans and programs, where the program uses the Grover search algorithm in quantum computing to find the best connection for each step. The main rule is that whoever forms the most boxes (scores) wins, and for each box formed, one more step is allowed.
 
-YouTube link: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qiq9zAij0Q0" frameborder="0" allowfullscreen></iframe>
 
 Here is a screenshot of our game: where the red side represents humans and the green side represents programs:
 
-![Game_1](images/game_1.png)
+<div style="display: flex; justify-content: center;">
+<img src="images/game_1.png" alt="Game 1" style="width: 600px; height: auto; margin-right: 10px;">
+<img src="images/game_2.png" alt="Game 2" style="width: 600px; height: auto;">
+</div>
 
-![Game_1](images/game_2.png)
 
 ## Team
 
