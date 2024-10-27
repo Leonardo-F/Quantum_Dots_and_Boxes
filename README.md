@@ -29,6 +29,9 @@ Create a Conda environment and install the required packages:
 conda create -n quantum_game_env python=3.11
 conda activate quantum_game_env
 pip install -r /path/to/requirements.txt
+
+cd code
+python DBGrover.py
 ```
 
 ## Document Description
