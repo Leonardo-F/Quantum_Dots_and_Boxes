@@ -26,9 +26,12 @@ Team menbers: [Jian-Fei Yang](https://github.com/YangD5014), [Gao-Ming Fan](http
 Create a Conda environment and install the required packages:
 
 ```
+git clone git@github.com:Leonardo-F/Quantum_Dots_and_Boxes.git
+
 conda create -n quantum_game_env python=3.11
 conda activate quantum_game_env
-pip install -r /path/to/requirements.txt
+
+pip install -r requirements.txt
 
 cd code
 python DBGrover.py
